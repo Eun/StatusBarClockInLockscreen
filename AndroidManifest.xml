@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="17"  />
+        android:targetSdkVersion="14"  />
 
     <application
         android:icon="@drawable/ic_launcher"
@@ -16,7 +16,7 @@
             android:value="true" />
         <meta-data
             android:name="xposedminversion"
-            android:value="30+" />
+            android:value="2.0*" />
         <meta-data
             android:name="xposeddescription"
             android:value="Makes the status bar clock visible in the lockscreen." />
