@@ -1,0 +1,7 @@
+StatusBarClockInLockscreen
+===========================
+
+Always show the Clock in Statusbar, whether the Lockscreen is active or not.
+
+ 
+Needs the Xposed Module
